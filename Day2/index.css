@@ -1,0 +1,24 @@
+body {
+    color: purple;
+    font-size: 30px;
+    background-color: lightblue;
+}
+
+h1 {
+    color: green;
+    font-size: 30px;
+    text-align-last: center;
+}
+
+p{
+    color: purple;
+    font-size: 25px;
+}
+ol {
+    font-size: 25px;
+    text-align: center;
+}
+
+a:link {
+    text-align: center;
+}

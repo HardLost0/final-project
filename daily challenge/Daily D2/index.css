@@ -1,0 +1,35 @@
+*{
+    margin: 20px;
+}
+body {
+    background-color: black;
+}
+.DivOne {
+    border: 10px outset #1F4BD5;
+    background-color: lightblue;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+.DivTwo {
+    border: 10px outset #EE0459;
+    background-color: lightblue;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+.DivThree {
+    border: 10px outset #9ffd32;
+    background-color: lightblue;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+.DivFour {
+    border: 10px outset #EE8704;
+    background-color: lightblue;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
